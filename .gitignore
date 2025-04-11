@@ -4,3 +4,4 @@ chroma/
 *.doc
 .ipynb_checkpoints/
 inflearn-lectures/
+venv/
